@@ -1,0 +1,27 @@
+{
+  "name": "actions-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src",
+    "test": "jest src/app.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leopff/actions-express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leopff/actions-express/issues"
+  },
+  "homepage": "https://github.com/leopff/actions-express#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "jest": "^27.4.7",
+    "supertest": "^6.2.2"
+  }
+}
